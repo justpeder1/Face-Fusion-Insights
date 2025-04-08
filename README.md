@@ -136,5 +136,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions or support, please reach out to the development team.
 
 ---
-
-Built with ❤️ using React, TypeScript, and AI technology
